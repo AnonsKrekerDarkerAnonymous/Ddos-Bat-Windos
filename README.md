@@ -7,7 +7,7 @@ Dowland Git https://desktop.github.com/
 git clone https://github.com/AnonsKrekerDarkerAnonymous/Ddos-Bat-Windos
 cd Ddos-Bat-Windos
 start ANONSDDOS.bat
-
+.......................
 Što je Ping napada smrti?
 Ping smrti oblik je napada uskraćivanja usluge (DoS) koji se događa kada se napadač sruši, destabilizira ili zamrzne računala ili usluge ciljajući ih prevelikim paketima podataka. Ovaj oblik DoS napada obično cilja i iskorištava naslijeđene slabosti koje su organizacije možda zakrpale.
 
