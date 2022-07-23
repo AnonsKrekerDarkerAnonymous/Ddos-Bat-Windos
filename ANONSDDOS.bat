@@ -7,7 +7,7 @@ echo.
 echo     .-          
 echo   .-  .-       
 echo  .-    .-     
-echo  .-.-.-.-.   
+echo  .-.-.-.-.   NONYMOUS
 echo  .-     .-     
 echo  .-     .-      
 echo  .-     .-      
