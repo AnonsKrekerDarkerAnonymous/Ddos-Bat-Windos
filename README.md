@@ -1,10 +1,10 @@
 # Ddos-Bat-Windos
 
-Windos 7,8,9,10,11.
--------------------------
+#Windos 7,8,9,10,11.
+
 ```
 cd desktop & 
-Dowland Git https://desktop.github.com/ & 
+winget install --id Git.Git -e --source winget & 
 git clone https://github.com/AnonsKrekerDarkerAnonymous/Ddos-Bat-Windos & 
 cd Ddos-Bat-Windos & 
 start ANONSDDOS.bat 
