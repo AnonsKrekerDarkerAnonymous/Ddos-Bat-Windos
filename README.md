@@ -12,7 +12,7 @@ cd Ddos-Bat-Windos &
 start ANONSDDOS.bat 
 ```
 ```
-ssh hostUser@ip -p 22
+ssh hostUser Or ip dinamic Server@ip -p 22 & 
 ping 127.0.0.1 -n 5 -w 1000
 ping ip -t -l 50000
 ```
