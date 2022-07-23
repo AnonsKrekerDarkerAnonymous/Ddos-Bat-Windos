@@ -4,7 +4,7 @@
 
 ```
 ssh hostUser Or ip dynamic Server@ip -p 22 & 
-cd desktop & 
+cd Desktop & 
 winget install --id Git.Git -e --source winget & 
 Start git
 git clone https://github.com/AnonsKrekerDarkerAnonymous/Ddos-Bat-Windos & 
