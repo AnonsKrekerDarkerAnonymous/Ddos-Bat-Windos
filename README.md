@@ -3,7 +3,7 @@
 #Windos 7,8,9,10,11.
 
 ```
-ssh hostUser@ip -p 22 & 
+ssh hostUser Or ip dinamic Server@ip -p 22 & 
 cd desktop & 
 winget install --id Git.Git -e --source winget & 
 Start git
