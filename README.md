@@ -1,4 +1,4 @@
-# Ddos-Bat-Windos
+# Ddos-Bat-Windos-Ping
 
 #Windos 7,8,9,10,11.
 
