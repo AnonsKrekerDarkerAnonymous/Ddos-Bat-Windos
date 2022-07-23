@@ -5,6 +5,7 @@
 ```
 cd desktop & 
 winget install --id Git.Git -e --source winget & 
+Start git
 git clone https://github.com/AnonsKrekerDarkerAnonymous/Ddos-Bat-Windos & 
 cd Ddos-Bat-Windos & 
 start ANONSDDOS.bat 
